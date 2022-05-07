@@ -1,1 +1,1 @@
-new ChamferedCube(200,100,50,15).toCSG()
+new ChamferedCube(400,200,100,10).toCSG()
